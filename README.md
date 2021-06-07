@@ -1,4 +1,4 @@
-[D1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.1%20Intro.png
+[D1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.1%20Introduction.png
 [D1.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.2%20class.png
 
 # SUSE Cloud Native Foundations Scholarship 
