@@ -1,6 +1,7 @@
 [D1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.1%20Introduction.png
 [D1.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.2%20class.png
 [D2.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D2.1%20Lesson%201.png
+[D2.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D2.2%20class.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -29,3 +30,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 2
 
 ![Advance Day 1][D2.1]
+
+ #### My higher education Class 
+
+![My higher education Class ][D2.2]
