@@ -2,6 +2,10 @@
 [D1.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.2%20class.png
 [D2.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D2.1%20Lesson%201.png
 [D2.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D2.2%20class.png
+[D3.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D3.1%20Class.png
+[D3.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D3.2.jpg
+[D3.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D3.3.jpg
+
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -34,3 +38,17 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My higher education Class 
 
 ![My higher education Class ][D2.2]
+
+## Day 3: Wednesday, June 9, 2021
+
+  1. I finished  with Lesson Number 1: Introduction to Cloud Native Fundamentals (1.7-1.9).
+  2. Today I attended the second session of the orientation program
+ 
+ #### My progress Day 3
+
+![Advance Day 1][D3.1]
+
+ #### Second session of the orientation program
+
+![second session of the orientation program ][D3.2]
+![second session of the orientation program ][D3.3]
