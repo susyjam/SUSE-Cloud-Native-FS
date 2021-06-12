@@ -6,6 +6,9 @@
 [D3.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D3.2.jpg
 [D3.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D3.3.jpg
 [D4.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D4.1%20Class.png
+[D5.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D5%20lesson%202.png
+[D6.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D6%20lesson%202.png
+[D7.1]: .
 
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -57,7 +60,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ## Day 4: Thursday, June 10, 2021
 
-  1. I started  with Lesson Number 1: Architecture Consideration for Cloud Native Applications (2.1-2.2).
+  1. I started  with Lesson Number 2: Architecture Consideration for Cloud Native Applications (2.1-2.2).
  
  #### My progress Day 4
 
@@ -65,10 +68,18 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ## Day 5: Friday, June 11, 2021
 
-  1. I Contunued  with Lesson Number 1: Architecture Consideration for Cloud Native Applications (2.3-2.4).
+  1. I Contunued  with Lesson Number 2: Architecture Consideration for Cloud Native Applications (2.3-2.4).
  
- #### My progress Day 4
+ #### My progress Day 5
 
 ![Advance Day 5][D5.1]
+
+## Day 6: Saturday, June 12, 2021
+
+  1. I Contunued  with Lesson Number 2: Architecture Consideration for Cloud Native Applications (2.5-2.6).
+ 
+ #### My progress Day 6
+
+![Advance Day 6][D6.1]
 
 
