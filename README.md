@@ -63,4 +63,12 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![Advance Day 4][D4.1]
 
+## Day 5: Friday, June 11, 2021
+
+  1. I Contunued  with Lesson Number 1: Architecture Consideration for Cloud Native Applications (2.3-2.4).
+ 
+ #### My progress Day 4
+
+![Advance Day 5][D5.1]
+
 
