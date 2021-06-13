@@ -8,7 +8,9 @@
 [D4.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D4.1%20Class.png
 [D5.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D5%20lesson%202.png
 [D6.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D6%20lesson%202.png
-[D7.1]: .
+[D7.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20Lesson%202.png
+[D7.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20study%20group.png
+[D8.1]: .
 
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -81,5 +83,18 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 6
 
 ![Advance Day 6][D6.1]
+
+## Day 7: Sunday, June 13, 2021
+
+  1. I Contunued  with Lesson Number 2: Architecture Consideration for Cloud Native Applications (2.7-2.8).
+  2. Today I filled out the form to create a study group in Spanish, I hope you really open it up so we can interact and learn together.
+ 
+ #### My progress Day 7
+
+![Advance Day 7][D7.1]
+
+ #### Study group Spanish
+
+![Study group Spanish][D7.2]
 
 
