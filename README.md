@@ -10,7 +10,7 @@
 [D6.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D6%20lesson%202.png
 [D7.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20Lesson%202.png
 [D7.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20study%20group.png
-[D8.1]: .
+[D8.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%208%20Lesso%202.png
 
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -97,4 +97,23 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![Study group Spanish][D7.2]
 
+# Today a new challenge started in the SUSE community called #daily_scrum
+## In this challenge, 3 questions must be answered:
+  1. What did I work on yesterday?
+  2. What will I work on today?
+  3. What issues are blocking my progress?
+
+## From now on I will start with the challenge but still I will continue with my daily report
+  
+## Day 8: Monday, June 14, 2021 | Day 1 #daily_scrum 
+### #daily_scrum 
+  1. Yesterday I did Exercise: Trade-offs for Monoliths and Microservices (Lesson 2.7)
+  2. Today I learned a little about Best Practices For Application Deployment (Lesson 2.9 - 2.10)
+  3. I have no blocks for the moment 
+### Daily personal report
+  1. Today I joined two groups to participate in #daily_scrum they are the group of #st_spaic and #st_spanish
+  
+ #### My progress Day 8
+
+![Advance Day 8][D6.1]
 
