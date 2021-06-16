@@ -11,7 +11,8 @@
 [D7.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20Lesson%202.png
 [D7.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%207%20study%20group.png
 [D8.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%208%20Lesso%202.png
-
+[D9.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/day%209%20Lesso%202.png
+[D9.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/class%20diplomado.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -115,5 +116,24 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
   
  #### My progress Day 8
 
-![Advance Day 8][D6.1]
+![Advance Day 8][D8.1]
+
+## Day 9: Tuesday, June 15, 2021 | Day 2 #daily_scrum 
+### #daily_scrum 
+  1. Yesterday I answered the Quizzes: Best Practices For Application Deployment (Lesson 2.10)
+  2. Today I did Exercise: Endpoints for Application Status (Lesson 2.11 - 2.12)
+  3. I had a bit of trouble understanding the code solution in flask since I am new to flask so I started researching and learning a little more about flask
+### Daily personal report
+  1. Today I had one of the last classes of the diploma, it was very emotional
+  2. today I reviewed this page to understand a bit of flask https://www.fullstackpython.com/flask.html and https://www.tutorialspoint.com/flask/index.htm
+  
+ #### My progress Day 9
+
+![Advance Day 9][D9.1]
+
+ #### One of the last classes of the diploma
+
+![one of the last classes of the diploma][D9.2]
+
+
 
