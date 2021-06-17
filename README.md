@@ -13,6 +13,9 @@
 [D8.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%208%20Lesso%202.png
 [D9.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/day%209%20Lesso%202.png
 [D9.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/class%20diplomado.png
+[D10.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D10%20lesson%202.png
+[D10.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2010%20st_spanish.png
+
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -107,7 +110,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ## From now on I will start with the challenge but still I will continue with my daily report
   
 ## Day 8: Monday, June 14, 2021 | Day 1 #daily_scrum 
-### #daily_scrum 
+### Day 1 #daily_scrum 
   1. Yesterday I did Exercise: Trade-offs for Monoliths and Microservices (Lesson 2.7)
   2. Today I learned a little about Best Practices For Application Deployment (Lesson 2.9 - 2.10)
   3. I have no blocks for the moment 
@@ -119,13 +122,13 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ![Advance Day 8][D8.1]
 
 ## Day 9: Tuesday, June 15, 2021 | Day 2 #daily_scrum 
-### #daily_scrum 
+### Day 2 #daily_scrum 
   1. Yesterday I answered the Quizzes: Best Practices For Application Deployment (Lesson 2.10)
   2. Today I did Exercise: Endpoints for Application Status (Lesson 2.11 - 2.12)
   3. I had a bit of trouble understanding the code solution in flask since I am new to flask so I started researching and learning a little more about flask
 ### Daily personal report
   1. Today I had one of the last classes of the diploma, it was very emotional
-  2. today I reviewed this page to understand a bit of flask https://www.fullstackpython.com/flask.html and https://www.tutorialspoint.com/flask/index.htm
+  2. Today I reviewed this page to understand a bit of flask https://www.fullstackpython.com/flask.html and https://www.tutorialspoint.com/flask/index.htm
   
  #### My progress Day 9
 
@@ -135,5 +138,20 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![one of the last classes of the diploma][D9.2]
 
+## Day 10: Wednesday, June 16, 2021 | Day 3 #daily_scrum 
+### Day 3 #daily_scrum 
+  1. Yesterday I started learning with flask to solve and understand the Endpoints for Application Status solution (Lesson 2.12)
+  2. Today I did Exercise:Exercise: Application Logging (Lesson 2.13 - 2.14)
+  3. I have no blocks for the moment 
+### Daily personal report
+  1. Today I started interacting and organizing the #st_spanish team, it's great to meet new study friends
+  2. Today I continue studying about flask
+ 
+ #### My progress Day 10
 
+![Advance Day 10][D10.1]
+
+ #### Great Team #St_spanish in Slack
+
+![Great Team #St_spanish][D10.2]
 
