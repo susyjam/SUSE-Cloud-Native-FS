@@ -15,7 +15,8 @@
 [D9.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/class%20diplomado.png
 [D10.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D10%20lesson%202.png
 [D10.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2010%20st_spanish.png
-
+[D11.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/day%2011%20lesson%202.png
+[D12.1]: .
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -154,4 +155,21 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### Great Team #St_spanish in Slack
 
 ![Great Team #St_spanish][D10.2]
+
+
+## Day 11: Wednesday, June 17, 2021 | Day 4 #daily_scrum 
+### Day 4 #daily_scrum 
+  1. Yesterday I focused on the Endpoints for Application Status solution (Lesson 2:  2.14)
+  2. Today study the Edge Case: Amorphous Applications (Lesson 2:  2.15 - 2.16).... I finished lesson 2 yeiii
+  3. I have no blocks for the moment 
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I continue studying about flask
+ 
+ #### My progress Day 11
+
+![Advance Day 11][D11.1]
+
+
+
 
