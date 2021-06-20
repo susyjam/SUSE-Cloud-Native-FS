@@ -17,6 +17,10 @@
 [D10.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2010%20st_spanish.png
 [D11.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/day%2011%20lesson%202.png
 [D12.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2012%20Lesson%203.png
+[D13.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2013%20Lesson%203%20SUSE.png
+[D13.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/1er%20Meeting%20St_spanish.png
+[D14.1]: .
+[D14.2]: .
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -184,3 +188,21 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![Advance Day 12][D12.1]
 
+## Day 13: Saturday, June 19, 2021 | Day 6 #daily_scrum 
+### Day 6 #daily_scrum 
+  1. Yesterday I Started with Transitions from VMs to Containers(Lesson 3: 3.1 - 3.2)
+  2. Today I continued with Docker for Application Packaging (Lesson 3: 3.3 - 3.4)
+  3. I have no locks at the moment
+  4. Today we had our first meeting of the #st_spanish study group with @Ali @Verdoso @Danilo.Britto.Scholar @viena.baca @fernando.terrazas @Patricio.Rojas @Martha.Rodriguez @Jorge.Barrera @Priscila.Espinoza @susyjam  where we plan the activities that we will carry out in addition to getting to know each other.
+  5. I would like to encourage @LinuxRobotGeek @ Patricio.Rojas @NigelP @ Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I had my digital forensics class
+  2. Today I participated in the #st_spaic meeting I met again with great friends
+ 
+ #### My progress Day 13
+
+![Advance Day 13][D13.1]
+
+ #### First meeting of the #st_spanish study group
+
+![first meeting of the #st_spanish study group][D13.2]
