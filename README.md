@@ -19,7 +19,7 @@
 [D12.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2012%20Lesson%203.png
 [D13.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2013%20Lesson%203%20SUSE.png
 [D13.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/1er%20Meeting%20St_spanish.png
-[D14.1]: .
+[D14.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2014%20Lesson%203.png
 [D14.2]: .
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -206,3 +206,22 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### First meeting of the #st_spanish study group
 
 ![first meeting of the #st_spanish study group][D13.2]
+
+
+## Day 14: Sunday, June 20, 2021 | Day 7 #daily_scrum 
+### Day 7 #daily_scrum 
+  1. Yesterday I continued with TDocker Walkthrough(Lesson 3: 3.4)
+  2. Today I continued with Useful Docker Commands (Lesson 3: 3.5 - 3.6)
+  3. I have no locks at the moment
+  4. I would like to encourage @LinuxRobotGeek @ Patricio.Rojas @NigelP @ Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I had a lot of homework from the diploma so I worked on it, I am very proud of my work
+ 
+ #### My progress Day 14
+
+![Advance Day 14][D14.1]
+
+
+
+
+
