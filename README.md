@@ -20,7 +20,8 @@
 [D13.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2013%20Lesson%203%20SUSE.png
 [D13.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/1er%20Meeting%20St_spanish.png
 [D14.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2014%20Lesson%203.png
-[D14.2]: .
+[D15.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2015%20Lesson%203.png
+[D15.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/team%2018.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -222,6 +223,19 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ![Advance Day 14][D14.1]
 
 
+## Day 15: Monday, June 21, 2021 | Day 8 #daily_scrum 
+### Day 8 #daily_scrum 
+  1. Yesterday I continued with  Useful Docker Commands(Lesson 3: 3.6)
+  2. Today I continued with Exercise: Docker for Application Packaging (Lesson 3: 3.7 - 3.8)
+  3. I have no locks at the moment
+  4. I would like to encourage @LinuxRobotGeek @ Patricio.Rojas @NigelP @ Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I had one of the last meetings with my fellow graduates, it was very emotional and funny
+ 
+ #### My progress Day 15
 
+![Advance Day 15][D15.1]
 
+ #### The Last Meeting
 
+![The Last Meeting][D15.2]
