@@ -24,6 +24,7 @@
 [D15.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/team%2018.png
 [D16.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2016%20Lesson%203.png
 [D16.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/GOAL%20ST_SPANISH.png
+[D17.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2017%20lesson%203.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -259,4 +260,21 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### Goal #st_spanish
 
 ![goal #st_spanish][D16.2]
+
+
+## Day 17: Wednesday, June 23, 2021 | Day 10 #daily_scrum 
+### Day 10 #daily_scrum 
+  1. Yesterday I continued with the Quizzes: Kubernetes (Lesson 3: 3.10)
+  2. Today I continued with the Kubernetes - The Container Orchestrator Framework (Lesson 3: 3.11 - 3.12), I participated in a meeting with a small group of spaic to organize ourselves in the realization of quizz and I made the weekly report of the study group #st_spanish
+  3. I have no locks at the moment
+  4. I would like to encourage @LinuxRobotGeek @ Patricio.Rojas @NigelP @ Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I did my final work on the diploma
+ 
+ #### My progress Day 17
+
+![Advance Day 17][D17.1]
+
+
+
 
