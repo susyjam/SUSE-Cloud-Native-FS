@@ -27,6 +27,10 @@
 [D17.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2017%20lesson%203.png
 [D18.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2018%20lesson%203.png
 [D19.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2019%20Lesson%203.png
+[D20.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2020%20lesson%203.png
+[D20.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/mee%20spa.png
+[D20.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Screenshot%202021-06-26%20at%2011.48.45%20PM.png
+
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -277,7 +281,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![Advance Day 18][D18.1]
 
-## Day 18: Thursday, June 23, 2021 | Day 11 #daily_scrum 
+## Day 18: Thursday, June 24, 2021 | Day 11 #daily_scrum 
 ### Day 11 #daily_scrum 
   1. Yesterday I continued with the Kubernetes - The Container Orchestrator Framework (Lesson 3: 3.12)
   2. Today I continued with the Exercise: Deploy Your First Kubernetes Cluster (Lesson 3: 3.13 - 3.15)
@@ -291,7 +295,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ![Advance Day 18][D18.1]
 
 
-## Day 19: Thursday, June 25, 2021 | Day 12 #daily_scrum 
+## Day 19: Friday, June 25, 2021 | Day 12 #daily_scrum 
 ### Day 12 #daily_scrum 
   1. Yesterday I continued with the Exercise: Deploy Your First Kubernetes Cluster (Lesson 3: 3.15)
   2. Today I continued with the Kubernetes Resources Part 1 - 2 (Lesson 3: 3.16 - 3.17)
@@ -305,5 +309,23 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ![Advance Day 19][D19.1]
 
 
+## Day 20: Saturday, June 26, 2021 | Day 13 #daily_scrum 
+### Day 13 #daily_scrum 
+  1. Yesterday I continued with the Kubernetes (Lesson 3: 3.17)
+  2. Today I continued with the Useful kubectl Commands (Lesson 3: 3.18 - 3.19), Today we had a great meeting with the study group #st_spanish  @Ali @Verdoso @Danilo.Britto.Scholar @fernando.terrazas @Jorge.Barrera @Priscila.Espinoza @AndyP @LinuxRobotGeek @Juan.Carlos.Jimenez @susyjam I also attended the #st_spaic meeting where I saw a great presentation of @LinuxRobotGeek
+  3. I should look for more information about Kubernetes
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. TToday I had a very long digital forensic analysis class in addition to preparing my video for the final presentation of the diploma ... heavy day
+ 
+ #### My progress Day 20
 
+![Advance Day 20][D20.1]
 
+ #### The 2do Meeting #st_Spanish
+
+![The 2do Meeting #st_Spanish][D20.2]
+
+ #### The Meeting #st_Spaic
+
+![The Meeting #st_Spaic][D20.3]
