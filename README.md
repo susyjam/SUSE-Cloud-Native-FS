@@ -30,6 +30,7 @@
 [D20.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2020%20lesson%203.png
 [D20.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/mee%20spa.png
 [D20.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Screenshot%202021-06-26%20at%2011.48.45%20PM.png
+[D21.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2021%20lesson%203.png
 
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -329,3 +330,19 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### The Meeting #st_Spaic
 
 ![The Meeting #st_Spaic][D20.3]
+
+
+## Day 21: Sunday, June 27, 2021 | Day 14 #daily_scrum 
+### Day 14 #daily_scrum 
+  1. Yesterday I continued with the Useful kubectl Commands (Lesson 3: 3.19)
+  2. Today I continued with the Exercise: Kubernetes Resources  (Lesson 3: 3.20 - 3.22)
+  3. I should look for more information about Kubernetes
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I finished preparing my video for the final presentation of the diploma
+ 
+ #### My progress Day 21
+
+![Advance Day 21][D21.1]
+
+
