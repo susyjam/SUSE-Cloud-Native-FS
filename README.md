@@ -31,7 +31,7 @@
 [D20.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/mee%20spa.png
 [D20.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Screenshot%202021-06-26%20at%2011.48.45%20PM.png
 [D21.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2021%20lesson%203.png
-
+[D22.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2022%20Lesson%203.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -344,5 +344,18 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 21
 
 ![Advance Day 21][D21.1]
+
+## Day 22: Monday, June 28, 2021 | Day 15 #daily_scrum 
+### Day 15 #daily_scrum 
+  1. Yesterday I continued with the Exercise: Kubernetes Resources (Lesson 3: 3.22)
+  2. Today I finished with the lesson 3 yeiii (Lesson 3: 3.23 - 3.28)
+  3. Today I read about Kubernetes
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I started to edit some posts for the women in digital forensic community
+ 
+ #### My progress Day 22
+
+![Advance Day 22][D22.1]
 
 
