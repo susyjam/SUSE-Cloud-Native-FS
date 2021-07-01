@@ -33,7 +33,7 @@
 [D21.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2021%20lesson%203.png
 [D22.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2022%20Lesson%203.png
 [D23.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2023%20Lesson%204.png
-[D24.1]: .
+[D24.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2024%20.png
 [D25.1]: .
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -374,5 +374,18 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 23
 
 ![Advance Day 23][D23.1]
+
+## Day 24 Wednesday, June 30 2021 | Day 17 #daily_scrum 
+### Day 17 #daily_scrum 
+  1. Yesterday  I Started with the Lesson 4: Open source PaaS-->Cluster Management (Lesson 4: 4.2)
+  2. Today I continued with the Lesson 4: PaaS Mechanisms (Lesson 4: 4.3 - 4.4) In addition to conducting the survey to find out what lesson my team #st  is going through
+  3.  I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today I had too many meetings, heavy day
+  
+ #### My progress Day 24
+
+![Advance Day 24][D24.1]
 
 
