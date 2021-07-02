@@ -34,7 +34,9 @@
 [D22.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2022%20Lesson%203.png
 [D23.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2023%20Lesson%204.png
 [D24.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2024%20.png
-[D25.1]: .
+[D25.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2025%20lesson%204.png
+[D25.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/lanzamiento%20face%20wdf%20(2).png
+[D26.1]:
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -387,5 +389,23 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 24
 
 ![Advance Day 24][D24.1]
+
+## Day 25 Thursday, July 1 2021 | Day 18 #daily_scrum 
+### Day 18 #daily_scrum 
+  1. Yesterday  I Started with the PaaS Mechanisms and Quizzes: PaaS Mechanisms (Lesson 4: 4.4)
+  2. Today I continued with the Exercise: PaaS Mechanisms (Lesson 4: 4.3 - 4.4) and I made my weekly report of my team #st_spanish
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
+### Daily personal report
+  1. Today starts a new adventure with a group of girls, they created a community called Women In Digital Forensics where today was the official launch, I feel very happy to be part of something very beautiful
+  
+ #### My progress Day 25
+
+![Advance Day 25][D25.1]
+
+
+ #### Launch of Women In Digital Forensics
+
+![launch of Women In Digital Forensics][D25.2]
 
 
