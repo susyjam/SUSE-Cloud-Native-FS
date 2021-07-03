@@ -37,6 +37,8 @@
 [D25.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2025%20lesson%204.png
 [D25.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/lanzamiento%20face%20wdf%20(2).png
 [D26.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2026%20Lesson%204.png
+[D27.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2027%20Lesson%204.png
+[D27.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%203%20st_spanish.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
