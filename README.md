@@ -36,7 +36,7 @@
 [D24.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2024%20.png
 [D25.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2025%20lesson%204.png
 [D25.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/lanzamiento%20face%20wdf%20(2).png
-[D26.1]:
+[D26.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2026%20Lesson%204.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -393,7 +393,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 ## Day 25 Thursday, July 1 2021 | Day 18 #daily_scrum 
 ### Day 18 #daily_scrum 
   1. Yesterday  I Started with the PaaS Mechanisms and Quizzes: PaaS Mechanisms (Lesson 4: 4.4)
-  2. Today I continued with the Exercise: PaaS Mechanisms (Lesson 4: 4.3 - 4.4) and I made my weekly report of my team #st_spanish
+  2. Today I continued with the Exercise: PaaS Mechanisms (Lesson 4: 4.5 - 4.6) and I made my weekly report of my team #st_spanish
   3. I have no blocks at the moment
   4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP
 ### Daily personal report
@@ -408,4 +408,15 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
 
 ![launch of Women In Digital Forensics][D25.2]
 
+## Day 26 Friday, July 2 2021 | Day 19 #daily_scrum 
+### Day 19 #daily_scrum 
+  1. Yesterday  I Started with the Exercise: PaaS Mechanisms (Lesson 4: 4.6)
+  2. Today I continued with the Cloud Foundry  (Lesson 4: 4.7 - 4.8)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG 
+### Daily personal report
+  1. Today I had a live conversation about interesting aspects, it was something not planned and I really liked doing it.
+  
+ #### My progress Day 26
 
+![Advance Day 26][D26.1]
