@@ -422,3 +422,20 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 26
 
 ![Advance Day 26][D26.1]
+
+## Day 27 Saturday, July 3 2021 | Day 20 #daily_scrum 
+### Day 20 #daily_scrum 
+  1. Yesterday  I Started with the Cloud Foundry  (Lesson 4: 4.8)
+  2.  Today I continued with the Exercise: Cloud Foundry  (Lesson 4: 4.9 - 4.10), Today we had a meeting with the #st_spanish group where @LinuxRobotGeek:purple_heart: made a great presentation. Thank you all for participating @AndyP @LinuxRobotGeek @viena.baca @Gabriel.Camps @fernando.terrazas  it was nice to meet you @Gabriel.Camps:purple_heart: I participated in the #st_spaic study group meeting where I loved the presentation of @EviG Algorithmic Music Composition, but my connection fell, the great thing is that he shared his presentation. yeii https://www.canva.com/design/DAEjFs3sVfI/6JG5jAFmuunmn0WAEaIJ9Q/view?utm_content=DAEjFs3sVfI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#4
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG 
+### Daily personal report
+  1. Today I had my digital forensic classes
+ 
+ #### My progress Day 27
+
+![Advance Day 27][D27.1]
+
+ #### The Meeting #st_Spaic
+
+![The Meeting #st_Spaic][D27.2]
