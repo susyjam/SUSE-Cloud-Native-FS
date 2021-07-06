@@ -40,6 +40,14 @@
 [D27.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2027%20Lesson%204.png
 [D27.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%203%20st_spanish.png
 [D28.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2028%20lesson%204.png
+[D29.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2029%20Lesson%205.png
+[D30.1]: .
+[D31.1]: .
+[D32.1]: .
+[D33.1]: .
+[D34.1]: .
+[D35.1]: .
+[D36.1]: .
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -454,3 +462,23 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 28
 
 ![Advance Day 28][D28.1]
+
+
+# Today a new challenge started in the SUSE community called #daily_scrum SPRINT 2
+## In this challenge, 3 questions must be answered:
+  1. What did I work on yesterday?
+  2. What will I work on today?
+  3. What issues are blocking my progress?
+
+## Day 29 Sunday, July 5 2021 | Day 1 #daily_scrum SPRINT 2
+### Day 1 #daily_scrum SPRINT 2
+  1. Yesterday I finished with lesson 4 ... yeii (Lesson 4: 4.14)
+  2. Today I started with the Lesson 5: Big Picture: Application Releases (Lesson 5: 5.1 - 5.2)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG 
+### Daily personal report
+  1. Today I had many things to do with the communities that I support but still tired
+ 
+ #### My progress Day 29
+
+![Advance Day 29][D29.1]
