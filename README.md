@@ -470,7 +470,7 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
   2. What will I work on today?
   3. What issues are blocking my progress?
 
-## Day 29 Sunday, July 5 2021 | Day 1 #daily_scrum SPRINT 2
+## Day 29 Monday, July 5 2021 | Day 1 #daily_scrum SPRINT 2
 ### Day 1 #daily_scrum SPRINT 2
   1. Yesterday I finished with lesson 4 ... yeii (Lesson 4: 4.14)
   2. Today I started with the Lesson 5: Big Picture: Application Releases (Lesson 5: 5.1 - 5.2)
