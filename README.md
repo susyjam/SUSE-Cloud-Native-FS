@@ -41,7 +41,7 @@
 [D27.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%203%20st_spanish.png
 [D28.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2028%20lesson%204.png
 [D29.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2029%20Lesson%205.png
-[D30.1]: .
+[D30.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2030%20lesson%205.png
 [D31.1]: .
 [D32.1]: .
 [D33.1]: .
@@ -482,3 +482,24 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 29
 
 ![Advance Day 29][D29.1]
+
+## Day 30 Tuesday, July 6 2021 | Day 2 #daily_scrum SPRINT 2
+### Day 2 #daily_scrum SPRINT 2
+  1. Yesterday I finished with the Big Picture: Application Releases (Lesson 5: 5.2)
+  2. Today I started with the Continuous Application Deployment (Lesson 5: 5.3 - 5.4)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG 
+### Daily personal report
+  1. Today I had many things to do with the communities that I support but still tired
+
+### reflect
+  1. How are you doing so far in this course and community in relation to your original motivation?
+  In the course I am doing well, if I have had doubts I think I was able to solve them thanks to friends. I am learning a lot and I have a great time in this community
+  2. Are you on track / what you expected and hoped for? If not, what can you do to get there?
+  If I'm on the right track, it's what I expected. The course is a bit challenging but it is something I like as it motivates me to study more.
+  3. What has helped you succeed and stay motivated / succeed thus far?
+  What helped me is to keep a report of my activities in github together with #daily_scrum in addition to the constant motivation of many friends in this great community:purple_heart: a special mention to study groups #st_spanish #st_spaic :nerd_face:
+ 
+ #### My progress Day 30
+
+![Advance Day 30][D30.1]
