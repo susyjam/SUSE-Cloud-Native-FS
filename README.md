@@ -43,7 +43,7 @@
 [D29.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2029%20Lesson%205.png
 [D30.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2030%20lesson%205.png
 [D31.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2031%20Lesson%205.png
-[D32.1]: .
+[D32.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2032%20Lesson%205.png
 [D33.1]: .
 [D34.1]: .
 [D35.1]: .
@@ -516,3 +516,18 @@ SUSE Cloud Native Throughout the course, a realistic example of how to apply goo
  #### My progress Day 31
 
 ![Advance Day 31][D31.1]
+Exercise: The CI Fundamentals
+
+
+## Day 32 Thursday, July 8 2021 | Day 4 #daily_scrum SPRINT 2
+### Day 4 #daily_scrum SPRINT 2
+  1. Yesterday I finished with the CI Fundamentals  (Lesson 5: 5.6)
+  2. Today I started with the Exercise: Continuous Application Deployment (Lesson 5: 5.7 - 5.8)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG 
+### Daily personal report
+  1. Today I had many things to do with the communities that I support 
+
+ #### My progress Day 32
+
+![Advance Day 32][D32.1]
