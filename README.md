@@ -44,8 +44,9 @@
 [D30.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2030%20lesson%205.png
 [D31.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2031%20Lesson%205.png
 [D32.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2032%20Lesson%205.png
-[D33.1]: .
-[D34.1]: .
+[D33.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2033%20lesson%205.png
+[D34.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2034%20Lesson%205.png
+[D34.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%204%20st.png
 [D35.1]: .
 [D36.1]: .
 
@@ -531,3 +532,35 @@ Exercise: The CI Fundamentals
  #### My progress Day 32
 
 ![Advance Day 32][D32.1]
+
+## Day 33 Friday, July 9 2021 | Day 5 #daily_scrum SPRINT 2
+### Day 5 #daily_scrum SPRINT 2
+  1. Yesterday I finished with the Exercise: Continuous Application Deployment (Lesson 5: 5.8)
+  2. Today I continued with thThe CD Fundamentalse and the ArgoCD Walkthrough(Lesson 5: 5.9 - 5.10)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria :purple_heart:
+### Daily personal report
+  1. I studied for my digital forence exam today
+
+ #### My progress Day 33
+
+![Advance Day 33][D33.1]
+
+
+## Day 34 Saturday, July 10 2021 | Day 6 #daily_scrum SPRINT 2
+### Day 6 #daily_scrum SPRINT 2
+  1. Yesterday I finished with The CD Fundamentalse and the ArgoCD Walkthrough(Lesson 5: 5.10)
+  2. Today I continued with the Quizzes: The CD Fundamentals and the Exercise: The CD Fundamentals (Lesson 5: 5.11 - 5.13) And Today we had our 4th meeting with the #st_spanish study group where @dani made a presentation of Docker and @patricio showed us some of his projects where  applies Docker. Thank you for always being part of this great team @AndyP @LinuxRobotGeek @Martha.Rodriguez @Danilo.Britto.Scholar @Ali @Patricio.Rojas @Carlota.Pearl @Claudia.Everett @fernando.terrazas @Priscila.Espinoza @Juan.Carlos.Kuri.Pinto @susyjam 
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. Today I gave my digital forensic partner exam, it was somewhat complicated but I liked doing it
+
+ #### My progress Day 34
+
+![Advance Day 34][D34.1]
+
+ #### The Meeting #st_Spaic
+
+![The Meeting #st_Spaic][D34.2]
+
