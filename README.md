@@ -47,7 +47,7 @@
 [D33.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2033%20lesson%205.png
 [D34.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2034%20Lesson%205.png
 [D34.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%204%20st.png
-[D35.1]: .
+[D35.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2035%20Lesson%205.png
 [D36.1]: .
 
 # SUSE Cloud Native Foundations Scholarship 
@@ -563,4 +563,17 @@ Exercise: The CI Fundamentals
  #### The Meeting #st_Spaic
 
 ![The Meeting #st_Spaic][D34.2]
+
+## Day 35 Sunday, July 11 2021 | Day 7 #daily_scrum SPRINT 2
+### Day 7 #daily_scrum SPRINT 2
+  1. Yesterday I finished with The Quizzes: The CD Fundamentals and the Exercise: The CD Fundamentals (Lesson 5: 5.13)
+  2. Today I continued with the Configuration Managers and Helm Walkthrough(Lesson 5: 5.14 - 5.15) 
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. Today I had a meeting with a very nice community called data scientist Bolivia, we planned new adventures
+
+ #### My progress Day 35
+
+![Advance Day 35][D35.1]
 
