@@ -48,7 +48,13 @@
 [D34.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2034%20Lesson%205.png
 [D34.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%204%20st.png
 [D35.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2035%20Lesson%205.png
-[D36.1]: .
+[D36.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2036%20Lesson%207.png
+[D37.1]:.
+[D38.1]:.
+[D39.1]:.
+[D40.1]:.
+[D41.1]:.
+[D42.1]: .
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -577,3 +583,16 @@ Exercise: The CI Fundamentals
 
 ![Advance Day 35][D35.1]
 
+
+## Day 36 Monday, July 12 2021 | Day 8 #daily_scrum SPRINT 2
+### Day 8 #daily_scrum SPRINT 2
+  1. Yesterday I finished with The  Configuration Managers and Helm Walkthrough (Lesson 5: 5.15)
+  2. Today I continued with the Quizzes: Configuration Managers and the Exercise: Configuration Managers(Lesson 5: 5.16 - 5.18) 
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. difficult day...
+
+ #### My progress Day 36
+
+![Advance Day 36][D36.1]
