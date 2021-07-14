@@ -49,7 +49,7 @@
 [D34.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%204%20st.png
 [D35.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2035%20Lesson%205.png
 [D36.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2036%20Lesson%207.png
-[D37.1]:.
+[D37.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2037%20Lesson%205.png
 [D38.1]:.
 [D39.1]:.
 [D40.1]:.
@@ -596,3 +596,16 @@ Exercise: The CI Fundamentals
  #### My progress Day 36
 
 ![Advance Day 36][D36.1]
+
+## Day 37 Tuesday, July 13 2021 | Day 9 #daily_scrum SPRINT 2
+### Day 9 #daily_scrum SPRINT 2
+  1. Yesterday I finished with The Quizzes: Configuration Managers and the Exercise: Configuration Managers (Lesson 5: 5.18)
+  2. Today I continued with the Edge Case: Push and Pull methodologies for CI/CD and Lesson Conclusion yeiiii(Lesson 5: 5.19 - 5.21) 
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. today I rested a lot because I had difficult days
+
+ #### My progress Day 37
+
+![Advance Day 37][D37.1]
