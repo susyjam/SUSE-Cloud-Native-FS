@@ -609,3 +609,14 @@ Exercise: The CI Fundamentals
  #### My progress Day 37
 
 ![Advance Day 37][D37.1]
+
+## Day 38 Wednesday, July 14 2021 | Day 10 #daily_scrum SPRINT 2
+### Day 10 #daily_scrum SPRINT 2
+  1. Yesterday I finished with The Edge Case: Push and Pull methodologies for CI/CD and Lesson Conclusion yeiiii (Lesson 5: 5.21)
+  2. Today I made my weekly report of the study group #st_spanish
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. Today I was vaccinated against COVID-19 and then I spent it resting because my arm hurt a lot and I was very sleepy
+
+
