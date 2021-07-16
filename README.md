@@ -619,4 +619,13 @@ Exercise: The CI Fundamentals
 ### Daily personal report
   1. Today I was vaccinated against COVID-19 and then I spent it resting because my arm hurt a lot and I was very sleepy
 
+![Advance Day 37][D37.1]
 
+## Day 39 Thursday, July 15 2021 | Day 11 #daily_scrum SPRINT 2
+### Day 11 #daily_scrum SPRINT 2
+  1. Yesterday I made my weekly report of the study group #st_spanish
+  2. Today Today I took a day off and dedicated myself to carrying out a personal project, I gave a talk about my experience learning digital forence analysis https://youtu.be/G4wR0WvblPo
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. Today my arm hurt and I also slept
