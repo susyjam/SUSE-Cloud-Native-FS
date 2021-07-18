@@ -50,11 +50,11 @@
 [D35.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2035%20Lesson%205.png
 [D36.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2036%20Lesson%207.png
 [D37.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/Day%2037%20Lesson%205.png
-[D38.1]:.
-[D39.1]:.
-[D40.1]:.
-[D41.1]:.
-[D42.1]: .
+[D41.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/STUDY-JAM.png
+[D41.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/bingo%20inicio.png
+[D41.3]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meetin%205%20inicio.png
+[D41.4]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%205.png
+[D41.5]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/BINGO%20STUDY%20JAM%20SUSE%20(3).gif
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -639,3 +639,35 @@ Exercise: The CI Fundamentals
   4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
 ### Daily personal report
   1. Today I did many things with a special little person @mauro
+
+
+
+
+## Day 40 Saturday, July 17 2021 | Day 13 #daily_scrum SPRINT 2
+### Day 13 #daily_scrum SPRINT 2
+  1. Yesterday I did activities to support the Study Jam
+  2. Today I did many study jam activities in addition to making the weekly meeting with the study group #st_spanish together with @Juan.Carlos.Kuri.Pinto @Gabriel.Camps @Nuria.Malet @Jose.Adan.Continuous.Learner @Verdoso @Ángel Quintanilla @AndyP @Priscila.Espinoza @Ali @viena.baca @susyjam  then I made my usual report of the group. I loved participating by making a badge :study-jam: and bingo for the sudy jam.
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. Today I collaborate with the elaboration of the women game jam
+
+ #### Badge Study Jam
+
+![Study jam][D41.1]
+
+ #### Bingo 
+
+![bingo][D41.5]
+
+ #### my start Bingo 
+
+![my start bingo][D41.2]
+
+ #### first moment Meeting 5 #st_spanish
+
+![f Meeting 5 #st_spanish][D41.3]
+
+ #### Meeting 5 #st_spanish
+
+![ Meeting 5 #st_spanish][D41.4]
