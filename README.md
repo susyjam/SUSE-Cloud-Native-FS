@@ -671,3 +671,12 @@ Exercise: The CI Fundamentals
  #### Meeting 5 #st_spanish
 
 ![ Meeting 5 #st_spanish][D41.4]
+
+## Day 42 MOnday, July 19 2021 | Day 15 #daily_scrum SPRINT 2
+### Day 15 #daily_scrum SPRINT 2
+  1. Yesterday I participated in the study jam
+  2. Today I did many activities for different communities, in addition to planning a review of the lessons of this course
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. I slept a lot
