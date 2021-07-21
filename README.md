@@ -680,3 +680,15 @@ Exercise: The CI Fundamentals
   4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
 ### Daily personal report
   1. I slept a lot
+
+
+## Day 43 Tuesday, July 20 2021 | Day 16 #daily_scrum SPRINT 2
+### Day 16 #daily_scrum SPRINT 2
+  1. Yesterday I did many activities for different communities, in addition to planning a review of the lessons of this course
+  2. Today fill out the 2nd sprint conclusion form and start the review of lesson 1 Introduction to Cloud-Native (1.1-1.4)
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. I slept a lot
+
+Introduction to Cloud-Native
