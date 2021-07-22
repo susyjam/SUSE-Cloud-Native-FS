@@ -691,4 +691,11 @@ Exercise: The CI Fundamentals
 ### Daily personal report
   1. I slept a lot
 
-Introduction to Cloud-Native
+## Day 44 Wednesday, July 21 2021 | Day 17 #daily_scrum SPRINT 2
+### Day 17 #daily_scrum SPRINT 2
+  1. Yesterday fill out the 2nd sprint conclusion form and start the review of lesson 1 Introduction to Cloud-Native (1.1-1.4)
+  2. Today I continued with reading 1
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. I am preparing a data science event
