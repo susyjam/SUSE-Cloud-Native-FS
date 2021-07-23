@@ -699,3 +699,13 @@ Exercise: The CI Fundamentals
   4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
 ### Daily personal report
   1. I am preparing a data science event
+
+## Day 45 Wednesday, July 22 2021 | Day 18 #daily_scrum SPRINT 2
+### Day 18 #daily_scrum SPRINT 2
+  1. Yesterday I continued with reading the lesson  1
+  2. Today a finished the lesson 1
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria 
+### Daily personal report
+  1. I am preparing a data science event
+
