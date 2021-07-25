@@ -723,4 +723,11 @@ Exercise: The CI Fundamentals
  
 ![friendship day][D46.1]
 
-
+## Day 47 Saturday, July 24 2021 | Day 20 #daily_scrum SPRINT 2
+### Day 20 #daily_scrum SPRINT 2
+  1. Yesterday I start with the Review of lesson 2. I want to thank @a for sharing Priscila's talk, thank you for so much support. https://www.notion.so/The-Importance-of-Data-Its-Types-3c23d7de4e47454f87cdbb3c11325c83
+  2. Today I continued with the Review of lesson 2
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. I am working in a homeworks
