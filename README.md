@@ -742,7 +742,7 @@ Exercise: The CI Fundamentals
   1. today I had a meeting with the group of data scientists to see positive and negative aspects of the last meetup and see the future plans
 
 
-## Day 49 Monay, July 26 2021 | Day 22 #daily_scrum SPRINT 2
+## Day 49 Monday, July 26 2021 | Day 22 #daily_scrum SPRINT 2
 ### Day 22 #daily_scrum SPRINT 2
   1. Yesterday I practically dedicated myself to taking a day off and cleaning at home.
   2. Today  I finished with the Review of lesson 2
@@ -750,3 +750,15 @@ Exercise: The CI Fundamentals
   4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
 ### Daily personal report
   1. Today I did a live with Mauro where we talked about UX
+
+
+## Day 50 Tuesday, July 27 2021 | Day 23 #daily_scrum SPRINT 2
+### Day 23 #daily_scrum SPRINT 2
+  1. Yesterday I finished with the Review of lesson 2
+  2. Today  I Started with the Review of lesson 3
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. Today I am working in a homeworks
+
+
