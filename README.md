@@ -56,6 +56,8 @@
 [D41.4]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/meeting%205.png
 [D41.5]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/BINGO%20STUDY%20JAM%20SUSE%20(3).gif
 [D46.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/descarga%20(1).jpeg
+[D51.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/forense.jpg
+
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -761,4 +763,15 @@ Exercise: The CI Fundamentals
 ### Daily personal report
   1. Today I am working in a homeworks
 
+## Day 51 Wednesday, July 28 2021 | Day 24 #daily_scrum SPRINT 2
+### Day 24 #daily_scrum SPRINT 2
+  1. Yesterday I Started with the Review of lesson 3
+  2. Today  I Continued with the Review of lesson 3, I gave my first digital forensics talk, I was very nervous but I liked doing it
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. today I gave my first digital forensics talk, I was very nervous but I liked doing it
 
+ #### Digital Forensics 101
+ 
+![Digital Forensics 101][D51.1]
