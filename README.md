@@ -790,3 +790,14 @@ Exercise: The CI Fundamentals
  #### SUSE
  
 ![SUSE][D52.1]
+
+
+## Day 53 Friday, July 30 2021 | Day 26 #daily_scrum SPRINT 2
+### Day 26 #daily_scrum SPRINT 2
+  1. Yesterday I Continued with the Review of lesson 3, I attended the phase 1 conclusion party
+  2. Today I Continued with the Review of lesson 3
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. Today I had a more relaxed day
+
