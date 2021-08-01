@@ -58,6 +58,7 @@
 [D46.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/descarga%20(1).jpeg
 [D51.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/forense.jpg
 [D52.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/suse.png
+[D54.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/last%20meeting.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -801,3 +802,16 @@ Exercise: The CI Fundamentals
 ### Daily personal report
   1. Today I had a more relaxed day
 
+
+## Day 54 Saturday, July 31 2021 | Day 27 #daily_scrum SPRINT 2
+### Day 27 #daily_scrum SPRINT 2
+  1. Yesterday I Continued with the Review of lesson 3
+  2. Today I finished reviewing lesson 3, I reviewed all the lessons (Questionnaires answered), Also today we had the last meeting of the #st_spanish study group, it was a great moment, Thank you guys @Ali @Priscila.Espinoza @Danilo.Britto.Scholar @fernando.terrazas @AndyP @LinuxRobotGeek
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. Today we had the 3rd Meetup of the Women Game Jam
+
+ #### The last Meeting #st_spanish
+ 
+![The last Meeting #st_spanish][D54.1]
