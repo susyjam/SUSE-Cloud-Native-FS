@@ -815,3 +815,15 @@ Exercise: The CI Fundamentals
  #### The last Meeting #st_spanish
  
 ![The last Meeting #st_spanish][D54.1]
+
+
+## Day 55 Sunday, August 01 2021 | Day 28 #daily_scrum SPRINT 2
+### Day 28 #daily_scrum SPRINT 2
+  1. Yesterday I finished reviewing lesson 3, I reviewed all the lessons (Questionnaires answered), Also today we had the last meeting of the #st_spanish study group, it was a great moment, Thank you guys @Ali @Priscila.Espinoza @Danilo.Britto.Scholar @fernando.terrazas @AndyP @LinuxRobotGeek
+  2. Today I started reviewing lesson 4
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. Today I had a complicated and heavy day
+
+
