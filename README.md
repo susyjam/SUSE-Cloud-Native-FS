@@ -59,6 +59,8 @@
 [D51.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/forense.jpg
 [D52.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/suse.png
 [D54.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/last%20meeting.png
+[D56.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/LM.png
+[D56.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/laast%20meet.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
@@ -827,3 +829,19 @@ Exercise: The CI Fundamentals
   1. Today I had a complicated and heavy day
 
 
+## Day 56 Monday, August 02 2021 | Day 29 #daily_scrum SPRINT 2
+### Day 29 #daily_scrum SPRINT 2
+  1. Yesterday I started reviewing lesson 4, I participated in a fun session to guess songs, I realized that I must apply the repertoire of the music I listen to
+  2. Today I continue to review lesson 4, besides that together with @Ali we organized 2 game sessions with the study group #st_spanish, It was great to relax a little with all of you, thanks for participating @Ali @AndyP @Anfelipe.Gris @LinuxRobotGeek @Priscila.Espinoza @fernando.terrazas @Jamiil.Ali  Mauro:meow_party:
+  3. I have no blocks at the moment
+  4. I would like to encourage @LinuxRobotGeek @Patricio.Rojas @NigelP @Priscila.Espinoza @AndyP @Jorge.Barrera @Juan.Carlos.Kuri.Pinto @Frida @EviG@RobG @Mariia @viena.baca @Moises.Sanabria @Anupriya.Saraswat @Sandeep.Dutta @Ali @Muhammad.Ali @Danilo.Britto.Scholar 
+### Daily personal report
+  1. Today I Encourage my boyfriend to participate in the meetings to play
+
+ #### The last Meeting #st_spanish GAME TIME round 1
+ 
+![The last Meeting #st_spanish GAME TIME 1][D56.1]
+
+ #### The last Meeting #st_spanish GAME TIME round 2
+ 
+![The last Meeting #st_spanish GAME TIME 2][D56.2]
