@@ -1,3 +1,4 @@
+[D0]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/SUSE%2BScholarship%2Bbadge%20(1).png 
 [D1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.1%20Introduction.png
 [D1.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D1.2%20class.png
 [D2.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/D2.1%20Lesson%201.png
@@ -61,9 +62,14 @@
 [D54.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/last%20meeting.png
 [D56.1]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/LM.png
 [D56.2]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/laast%20meet.png
+[D57]: https://github.com/susyjam/SUSE-Cloud-Native-FS/blob/main/image/SUSE_Scholarship_Finalist_Badge.png
 
 # SUSE Cloud Native Foundations Scholarship 
 SUSE Cloud Native Throughout the course, a realistic example of how to apply good development practices and contain an application will be discussed before it is released to a Kubernetes cluster using an automated CI / CD pipeline.
+
+ # SUSE Badge
+
+![Suse Badge][D0]
 
 ### This repository will contain my progress and path along this Scholarship
 
@@ -845,3 +851,8 @@ Exercise: The CI Fundamentals
  #### The last Meeting #st_spanish GAME TIME round 2
  
 ![The last Meeting #st_spanish GAME TIME 2][D56.2]
+
+
+ # SUSE Finalist Badge 
+
+![SUSE Finalist Badge][D57]
